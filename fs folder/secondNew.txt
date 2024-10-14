@@ -1,0 +1,5 @@
+writeFile example of: 
+
+fs Async module example and not, 
+
+fs synchronous methods example

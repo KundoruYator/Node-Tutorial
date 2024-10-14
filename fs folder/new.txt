@@ -1,0 +1,2 @@
+
+writeFileSync example of: fs synchronous methods example
