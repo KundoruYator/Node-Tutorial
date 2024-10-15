@@ -10,7 +10,7 @@
 //      npm install -g <packageName>
 //      sudo npm install -g <packageName> for (mac)
 
-// Dev dependency
+// Dev dependency -- Used while in the process of developing the application then the global dep is released with the app
 //      npm i <packageName> -D
 
 
@@ -38,4 +38,6 @@ console.log(newItems)
 // .gitignore Hence:
 //                 *First initializing Git by commanding (git init)
 //                 *Then putting the rest of the files by commanding(git add .)
-//                 *then commit by commanding (git commit -m "first commit")  
+//                 *then commit by commanding (git commit -m "first commit") 
+
+console.log("Kundoru INC.")
