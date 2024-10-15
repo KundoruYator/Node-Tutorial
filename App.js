@@ -30,3 +30,9 @@ const items = [1 , [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 
 console.log(newItems)
+
+// Since i can create a repo on my github, i can push the rest of the files on my directory except the ./node_modules by using
+// .gitignore Hence:
+//                 *First initializing Git by commanding (git init)
+//                 *Then putting the rest of the files by commanding(git add .)
+//                 *then commit by commanding (git commit -m "first commit")  
