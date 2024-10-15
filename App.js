@@ -10,6 +10,9 @@
 //      npm install -g <packageName>
 //      sudo npm install -g <packageName> for (mac)
 
+// Dev dependency
+//      npm i <packageName> -D
+
 
 // package.json - manifest files (store important info about project/package)'
 // manual approach (create package.json in the root , create properties e.t.c)
